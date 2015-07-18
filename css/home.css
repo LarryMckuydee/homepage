@@ -1,0 +1,47 @@
+body{
+	font-family: font-family: 'Roboto', sans-serif;
+	background-color: rgb(253,228,213);
+	text-shadow:0 0px 1px rgba(36,36,36,0.55);
+
+}
+.title{
+	font-family: 'Yellowtail', cursive;
+	margin: 30px;
+}
+.container{
+	display: table;
+	text-align: center;
+}
+
+.cover{
+	display: table-cell;
+	padding-top: 10%;
+	width:400px;
+}
+
+.btn-group-lg>.btn, .btn-lg  {
+	padding: 10px 70px;
+	margin:10px;
+	font-weight: 700;
+}
+
+.btn{
+	background-color: darksalmon;
+	color:rgb(240,240,240);
+}
+.selection{
+	margin:20px;
+}
+
+label{
+	font-size: 1.5em;
+}
+
+p{
+	padding:50px;
+}
+
+.well{
+	background-color: #FAFAFA;
+	box-shadow:0 2px 2px #999;
+}
